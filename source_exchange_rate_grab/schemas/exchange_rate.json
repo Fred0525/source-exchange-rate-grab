@@ -1,0 +1,27 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "currency": {
+      "type": ["null", "string"]
+    },
+    "spot_purchase_price": {
+      "type": ["null", "string"]
+    },
+    "cash_purchase_price": {
+      "type": ["null", "string"]
+    },
+    "spot_sell_price": {
+      "type": ["null", "string"]
+    },
+    "cash_selling_price ": {
+      "type": ["null", "string"]
+    },
+    "bank_count_price": {
+      "type": ["null", "string"]
+    },
+    "release_time": {
+      "type": ["null", "string"]
+    }
+  }
+}
