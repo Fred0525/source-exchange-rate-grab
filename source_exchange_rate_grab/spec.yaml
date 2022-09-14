@@ -11,7 +11,7 @@ connectionSpecification:
       title: Currency
       description: Currency requested from the API.
       examples:
-        - 英镑
-        - 港币
-        - 美元
-        - 欧元
+        - GBP
+        - HKD
+        - USD
+        - JPY
